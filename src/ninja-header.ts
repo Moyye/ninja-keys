@@ -16,7 +16,7 @@ export class NinjaHeader extends LitElement {
       margin: 0px;
       border: none;
       appearance: none;
-      font-size: 1.125em;
+      font-size: 1em;
       background: transparent;
       caret-color: var(--ninja-accent-color);
       color: var(--ninja-text-color);
